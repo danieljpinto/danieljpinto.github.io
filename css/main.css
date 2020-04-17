@@ -184,6 +184,9 @@ EXPERIENCES
   font-size: 1.4em;
   font-weight: bold;
 }
+.job .location{
+  font-size: 1.2em;
+}
 .job .year{
   font-size: 1.3em;
   opacity: 0.7;
